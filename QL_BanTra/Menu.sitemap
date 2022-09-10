@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="TrangChu.aspx" title="Trang Chủ"  description="Trang Chủ" >
+    <siteMapNode url="TimKiem.aspx" title="Tìm Kiếm"  description="Tìm Kiếm" />
+
+    <siteMapNode url="" title="Về Chúng Tôi"  description="Về Chúng Tôi" >
+    <siteMapNode url="GioiThieu.aspx" title="Giới Thiệu"  description="Giới Thiệu" />
+    <siteMapNode url="LienHe.aspx" title="Liên Hệ"  description="Liên Hệ" />
+      </siteMapNode>
+
+    <siteMapNode url="" title="Tài Khoản"  description="Tài Khoản" >
+      <siteMapNode url="DangNhap.aspx" title="Đăng Nhập"  description="Đăng Nhập" />
+      <siteMapNode url="DangKy.aspx" title="Đăng Ký"  description="Đăng Ký" />
+      <siteMapNode url="ThongTinCaNhan.aspx" title="Thông Tin Cá Nhân"  description="Thông Tin Cá Nhân" />
+    </siteMapNode>
+
+
+    <siteMapNode url="" title="Các Loại Trà" description="Các Loại Trà">
+      <siteMapNode url="CoDien.aspx" title="Cổ Điển" description="Cổ Điển" />
+      <siteMapNode url="ThaoMoc.aspx" title="Thảo Mộc" description="Thảo Mộc" />
+      <siteMapNode url="PhienBanDacBiet.aspx" title="Phiên Bản Đặc Biệt" description="Phiên Bản Đặc Biệt" />
+    </siteMapNode>
+
+    <siteMapNode url="GioHang.aspx" title="Giỏ Hàng" description="Giỏ Hàng" />
+    
+
+    <siteMapNode url="QuanLy.aspx" title="Quản Lý" description="Quản Lý" >
+      <siteMapNode url="QuanLySanPham.aspx" title="Quản Lý Sản Phẩm" description="Quản Lý Sản Phẩm" />
+      <siteMapNode url="QuanLyKhachHang.aspx" title="Quản Lý Khách Hàng" description="Quản Lý Khách Hàng" />
+    </siteMapNode>
+
+
+  </siteMapNode>
+
+</siteMap>
